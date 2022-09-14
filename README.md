@@ -1,8 +1,10 @@
-## Fork
+## Replit
 
-1. Fork [this task](https://replit.com/@InstructorCODED/Python-Basics#02_variables_task_2.py)
+1. Go to the [following link](https://replit.com/team/coded-instructor).
+2. Open the task **2. String Interpolation - Mad Libs**.
+3. Open `main.py` and solve the task.
+4. Once you're done, aubmit thet task.
 
-2. Write your code in `main.py`.
 
 ## Task
 
