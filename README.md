@@ -1,9 +1,9 @@
 ## Replit
 
-1. Go to the [following link](https://replit.com/team/coded-instructor).
-2. Open the task **2. String Interpolation - Mad Libs**.
+1. Go to the [following link](https://replit.com/@InstructorCODED/2-String-Interpolation-MadLibs#main.py).
+2. Fork the task **2. String Interpolation - Mad Libs**.
 3. Open `main.py` and solve the task.
-4. Once you're done, aubmit thet task.
+4. Once you're done call an instructor.
 
 
 ## Task
